@@ -1,13 +1,13 @@
 BASIC
-Bouffalant
-130
-PSYCHIC
+Noibat
+60
+132
+DARKNESS
 -
-3/Lost Headbutt/50,4/Superpowered Horns/120
-COLORLESS
-FIGHTING
-1
-Lost Origin
+1DD / Flap / 10, 1DDD / Glide / 30
+GRASS
+None
+4
+Sword & Shield—Fusion Strike
 F
-Дзарасов/Руслан/Аланович/БСБО-04-23
-148
+Strubalin / Nikita / Pavlovich / BSBO-04-23
